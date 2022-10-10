@@ -1,1 +1,2 @@
-#rangkuman
+# Rangkuman pertemuan 4 variabel
+variabel digunakan untuk menyimpan suatu nilai/data yang dapat kita panggil kembali. variabel dapat menyimpan berbagai tipe data.Parameter merupakan variabel yang menampung nilai untuk diproses di dalam fungsi
